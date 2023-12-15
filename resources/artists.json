@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "name": "Headhunterz",
+        "genre": "Hardstyle / Rawphoric",
+        "songs": [
+            {
+                "id": 1,
+                "name": "Live The Moment",
+                "date": "2012-11-26",
+                "duration": "03:32",
+                "artists": []
+            },
+            {
+                "id": 2,
+                "name": "Music Made Addict",
+                "date": "2008-02-12",
+                "duration": "06:35",
+                "artists": []
+            },
+            {
+                "id": 3,
+                "name": "Phases - TBY Romantic Mix",
+                "date": "2009-05-18",
+                "duration": "06:50",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sub Zero Project",
+        "genre": "Rawphoric / Rawstyle",
+        "songs": [
+            {
+                "id": 4,
+                "name": "Tonight - Alpha2 RMX",
+                "date": "2011-02-21",
+                "duration": "05:58",
+                "artists": []
+            },
+            {
+                "id": 5,
+                "name": "Lose My Mind - Radio Edit",
+                "date": "2012-05-01",
+                "duration": "03:03",
+                "artists": []
+            },
+            {
+                "id": 6,
+                "name": "FTS",
+                "date": "2009-02-16",
+                "duration": "05:29",
+                "artists": []
+            },
+            {
+                "id": 7,
+                "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                "date": "2009-06-12",
+                "duration": "07:17",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Phuture Noize",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 8,
+                "name": "Imaginary",
+                "date": "2010-05-24",
+                "duration": "03:12",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Wildstylez",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 9,
+                "name": "Rock Civilization",
+                "date": "2007-10-08",
+                "duration": "05:54",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "D-Block & S-te-Fan",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 10,
+                "name": "Angel",
+                "date": "2006-04-03",
+                "duration": "04:21",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Coone",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 11,
+                "name": "Zombie",
+                "date": "2011-11-28",
+                "duration": "04:49",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Miss K8",
+        "genre": "Hardcore",
+        "songs": [
+            {
+                "id": 12,
+                "name": "Darkest Hour (The Clock)",
+                "date": "2018-04-06",
+                "duration": "04:01",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Ran-D",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 13,
+                "name": "Living For The Moment",
+                "date": "2011-04-29",
+                "duration": "07:44",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Angerfist",
+        "genre": "Hardcore",
+        "songs": [
+            {
+                "id": 14,
+                "name": "The Power of the Mind (Qlimax Anthem 2007)",
+                "date": "2007-11-26",
+                "duration": "05:28",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Atmozfears",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 15,
+                "name": "Magic - Original Mix",
+                "date": "2010-11-01",
+                "duration": "05:34",
+                "artists": []
+            },
+            {
+                "id": 26,
+                "name": "Attack Again",
+                "date": "2010-05-21",
+                "duration": "03:20",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Sound Rush",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 27,
+                "name": "Gravity",
+                "date": "2015-05-18",
+                "duration": "04:39",
+                "artists": []
+            },
+            {
+                "id": 16,
+                "name": "Lost In Paradise - Edit",
+                "date": "2012-06-29",
+                "duration": "03:12",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Da Tweekaz",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 17,
+                "name": "World of Madness (Defqon.1 Anthem 2012)",
+                "date": "2012-06-25",
+                "duration": "06:25",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Frontliner",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 18,
+                "name": "Our Church",
+                "date": "2021-02-01",
+                "duration": "04:28",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Warface",
+        "genre": "Rawstyle",
+        "songs": [
+            {
+                "id": 19,
+                "name": "Timeless - Radio Edit",
+                "date": "2011-02-11",
+                "duration": "04:16",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "D-Sturb",
+        "genre": "Rawstyle",
+        "songs": [
+            {
+                "id": 20,
+                "name": "The Prophecy",
+                "date": "2014-04-21",
+                "duration": "05:50",
+                "artists": []
+            },
+            {
+                "id": 23,
+                "name": "So High",
+                "date": "2011-04-11",
+                "duration": "04:38",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Rebelion",
+        "genre": "Rawstyle",
+        "songs": [
+            {
+                "id": 29,
+                "name": "Zimmersion 2.0",
+                "date": "2019-01-14",
+                "duration": "07:44",
+                "artists": []
+            },
+            {
+                "id": 21,
+                "name": "Symbols",
+                "date": "2011-01-17",
+                "duration": "03:04",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Radical Redemption",
+        "genre": "Rawstyle",
+        "songs": [
+            {
+                "id": 22,
+                "name": "Natural",
+                "date": "2008-03-14",
+                "duration": "07:50",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Sefa",
+        "genre": "Frenchcore",
+        "songs": [
+            {
+                "id": 23,
+                "name": "So High",
+                "date": "2011-04-11",
+                "duration": "04:38",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Devin Wild",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 24,
+                "name": "Her Voice - Headhunterz Remix Edit",
+                "date": "2008-11-11",
+                "duration": "04:34",
+                "artists": []
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Zatox",
+        "genre": "Hardstyle",
+        "songs": [
+            {
+                "id": 25,
+                "name": "Dragonborn - Original Mix",
+                "date": "2013-09-02",
+                "duration": "05:34",
+                "artists": []
+            },
+            {
+                "id": 26,
+                "name": "Attack Again",
+                "date": "2010-05-21",
+                "duration": "03:20",
+                "artists": []
+            },
+            {
+                "id": 27,
+                "name": "Gravity",
+                "date": "2015-05-18",
+                "duration": "04:39",
+                "artists": []
+            },
+            {
+                "id": 28,
+                "name": "Life Beyond Earth",
+                "date": "2008-07-14",
+                "duration": "04:09",
+                "artists": []
+            }
+        ]
+    }
+]

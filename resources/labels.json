@@ -1,0 +1,463 @@
+[
+    {
+        "id": 1,
+        "name": "Q-Dance",
+        "artists": [
+            {
+                "id": 1,
+                "name": "Headhunterz",
+                "genre": "Hardstyle / Rawphoric",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Live The Moment",
+                        "date": "2012-11-26",
+                        "duration": "03:32",
+                        "artists": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Music Made Addict",
+                        "date": "2008-02-12",
+                        "duration": "06:35",
+                        "artists": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Phases - TBY Romantic Mix",
+                        "date": "2009-05-18",
+                        "duration": "06:50",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Phuture Noize",
+                "genre": "Hardstyle",
+                "songs": [
+                    {
+                        "id": 8,
+                        "name": "Imaginary",
+                        "date": "2010-05-24",
+                        "duration": "03:12",
+                        "artists": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Scantraxx",
+        "artists": [
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dirty Workz",
+        "artists": [
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "End of Line",
+        "artists": [
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub Zero Project",
+                "genre": "Rawphoric / Rawstyle",
+                "songs": [
+                    {
+                        "id": 4,
+                        "name": "Tonight - Alpha2 RMX",
+                        "date": "2011-02-21",
+                        "duration": "05:58",
+                        "artists": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lose My Mind - Radio Edit",
+                        "date": "2012-05-01",
+                        "duration": "03:03",
+                        "artists": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "FTS",
+                        "date": "2009-02-16",
+                        "duration": "05:29",
+                        "artists": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Scrap Attack (Defqon.1 Anthem 2009) - Original Mix",
+                        "date": "2009-06-12",
+                        "duration": "07:17",
+                        "artists": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fusion Records",
+        "artists": []
+    },
+    {
+        "id": 6,
+        "name": "Minus is More",
+        "artists": []
+    }
+]
